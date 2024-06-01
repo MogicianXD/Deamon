@@ -1,3 +1,3 @@
 # Deamon
 
-We promise to release our codes at June 2.
+We promise to release our codes on June 2nd.
